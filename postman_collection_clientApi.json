@@ -42,7 +42,7 @@
 			"currentHelper": "normal",
 			"helperAttributes": {},
 			"time": 1463419960576,
-			"name": "IS29_TC2Validation for offset 2nd request ",
+			"name": "IS29_TC2Validation_for_offset_2nd_request",
 			"description": "",
 			"collectionId": "eec588d8-cb7f-f426-377e-bd2ceadc1449"
 		},
@@ -93,7 +93,7 @@
 			"currentHelper": "normal",
 			"helperAttributes": {},
 			"time": 1463419982884,
-			"name": "IS-107_TC2 Offset value exceeding record s limit ",
+			"name": "IS-107_TC2 Offset value exceeding record s limit",
 			"description": "",
 			"collectionId": "eec588d8-cb7f-f426-377e-bd2ceadc1449"
 		},
