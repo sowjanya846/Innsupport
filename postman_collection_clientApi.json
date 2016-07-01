@@ -93,7 +93,7 @@
 			"currentHelper": "normal",
 			"helperAttributes": {},
 			"time": 1463419982884,
-			"name": "IS-107_TC2 Offset value exceeding record s limit",
+			"name": "IS-107_TC2 Offset_value_exceeding_record_s_limit",
 			"description": "",
 			"collectionId": "eec588d8-cb7f-f426-377e-bd2ceadc1449"
 		},
@@ -110,7 +110,7 @@
 			"currentHelper": "normal",
 			"helperAttributes": {},
 			"time": 1463419991341,
-			"name": "IS_107_TC3Invalid inputs type offset=<string> ",
+			"name": "IS_107_TC3Invalid_inputs_type_offset=<string> ",
 			"description": "If parameters are invalid type (i.e. 'offset=ten'), return 400 response (invalid input)",
 			"collectionId": "eec588d8-cb7f-f426-377e-bd2ceadc1449"
 		},
@@ -161,7 +161,7 @@
 			"currentHelper": "normal",
 			"helperAttributes": {},
 			"time": 1463517016672,
-			"name": "IS-251 Properties for non exisitng client",
+			"name": "IS-251_Properties_for_non_exisitng_client",
 			"description": "",
 			"collectionId": "eec588d8-cb7f-f426-377e-bd2ceadc1449",
 			"responses": []
